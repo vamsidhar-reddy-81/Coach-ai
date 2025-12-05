@@ -1,0 +1,5 @@
+{
+  "name": "Coach AI",
+  "description": "Coach AI: A sophisticated AI chat interface powered by Google's Gemini 2.5 Flash model, featuring streaming responses, markdown support, and dynamic data visualization.",
+  "requestFramePermissions": []
+}
